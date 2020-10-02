@@ -6,5 +6,6 @@ jobs:
 
     steps:
       - checkout
+      - run: gem install bundler
       - run: bundle install -j4 --path vendor/bundle
       - run: bundle exec rspec
