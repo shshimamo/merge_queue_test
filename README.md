@@ -2,4 +2,6 @@
 
 add
 merge_queue_test_update_1
+merge_queue_test_update_2
 merge_queue_test_update_3
+
